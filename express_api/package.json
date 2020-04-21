@@ -12,7 +12,7 @@
     "express": "~4.13.4",
     "jade": "~1.11.0",
     "js2coffee": "^2.2.0",
-    "morgan": "~1.7.0",
+    "morgan": "~1.10.0",
     "mysql": "^2.11.1",
     "sequelize": "^3.23.4",
     "sequelize-cli": "^2.4.0",
